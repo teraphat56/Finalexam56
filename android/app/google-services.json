@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348585366269",
+    "project_id": "exam-1-174-89037",
+    "storage_bucket": "exam-1-174-89037.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348585366269:android:fe2b13cb67a2e593bbe494",
+        "android_client_info": {
+          "package_name": "com.teraphat.exam_1_174"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_UIdQuzB-dhgMGWsAYYDdrm3D_M82kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
